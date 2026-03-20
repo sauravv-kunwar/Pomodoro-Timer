@@ -41,5 +41,5 @@ Pomodoro-Timer/
 
 ## Author
 
-Saurav Kunwar
-Computer Engineering Student
+- Saurav Kunwar
+- Computer Engineering Student
