@@ -1,10 +1,13 @@
-# 🍅 Focus — Pomodoro Timer
+#  Focus — Pomodoro Timer
 
 A modern, aesthetic **Pomodoro Timer web app** designed to help you stay productive and focused while studying or working.
 
 Built with **HTML, CSS, and JavaScript**, this timer provides a cozy study environment with beautiful themes and smooth user experience.
 
 ---
+
+## 🌐 Live Demo
+👉 https://pomodoro-timer-six-gamma.vercel.app
 
 ## 🚀 Features
 
