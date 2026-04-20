@@ -6,8 +6,6 @@ Built with **HTML, CSS, and JavaScript**, this timer provides a cozy study envir
 
 ---
 
-## 🌐 Live Demo
-👉 https://pomodoro-timer-six-gamma.vercel.app
 
 ## 🚀 Features
 
